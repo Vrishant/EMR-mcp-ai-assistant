@@ -1,0 +1,18 @@
+{
+  "query": "",
+  "data": {
+    "rows":[],
+    "columns": [],
+    "aggregate": [
+      "commodity",
+      "process",
+      "year",
+      "timeslice",
+      "scenario",
+      "region",
+      "unit",
+      "varbl",
+      "attribute"
+    ]
+  }
+}
